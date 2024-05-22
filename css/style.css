@@ -22,14 +22,14 @@ header nav ul {
 
 header nav ul a {
   text-decoration: none;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-weight: regular;
   color: white;
 }
 
 h1 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
   font-weight: bold;
 }
@@ -45,7 +45,7 @@ header h1 {
 }
 
 .textherosection h1 {
-  font-family: "PP Radio Grotesk";
+    font-family: Arial, Helvetica, sans-serif;
   font-size: 60px;
   font-weight: bold;
   line-height: 120%;
@@ -53,14 +53,14 @@ header h1 {
 }
 
 .textherosection h2 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 45px;
   font-weight: bold;
   color: #CA5F76;
 }
 
 .textherosection p {
-  font-family: "Neue Regrade";
+   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   font-weight: bold; 
   color: #301863;
@@ -106,7 +106,7 @@ background-color: white;
 }
 
 .card h4 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-weight: bold;
   text-align: center;
@@ -119,13 +119,13 @@ height: 700px;
 }
 
 .inaugurazione h1 {
-font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
 font-size: 60px;
 font-weight: bold;
 }
 
 .p1 {
-font-family: "PP Radio Grotesk";
+  font-family: Arial, Helvetica, sans-serif;
 font-size: 23px;
 font-style: normal;
 line-height: 110%;
@@ -135,7 +135,7 @@ margin-bottom: 2%;
 }
 
 .p2 {
-font-family: "PP Radio Grotesk";
+  font-family: Arial, Helvetica, sans-serif;
 font-size: 23px;
 font-style: normal;
 line-height: 110%;
@@ -179,7 +179,7 @@ height: 166px;
   color: #000;
   text-decoration: none;
   margin-bottom: 0.5rem;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
 
@@ -208,14 +208,14 @@ body.artisti header nav ul {
 
 body.artisti header nav ul a {
   text-decoration: none;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-weight: regular;
   color: white;
 }
 
 body.artisti h1 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
   font-weight: bold;
 }
@@ -243,13 +243,13 @@ body.artisti .artisti {
   }
   
   body.artisti .artisti h1 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 60px;
   font-weight: bold;
   }
   
   body.artisti .artisti p {
-  font-family: "PP Radio Grotesk";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 23px;
   font-style: normal;
   line-height: 110%;
@@ -284,7 +284,7 @@ body.artisti .cards {
 }
   
 body.artisti .card h4 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-weight: bold;
   text-align: center;
@@ -322,7 +322,7 @@ body.artisti .footer-heading a {
   color: #000;
   text-decoration: none;
   margin-bottom: 0.5rem;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
 
@@ -351,14 +351,14 @@ body.infomostra header nav ul {
 
 body.infomostra header nav ul a {
   text-decoration: none;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-weight: regular;
   color: white;
 }
 
 body.infomostra h1{
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
   font-weight: bold;
 }
@@ -388,14 +388,14 @@ body.infomostra .infomostra {
 }
   
 body.infomostra .infomostra h1 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 60px;
   font-weight: bold;
   padding-left: 50px;
 }
   
 body.infomostra .p {
-  font-family: "PP Radio Grotesk";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 23px;
   font-style: normal;
   line-height: 110%;
@@ -440,7 +440,7 @@ body.infomostra .footer-heading a {
   color: #000;
   text-decoration: none;
   margin-bottom: 0.5rem;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
 
@@ -469,14 +469,14 @@ body.icinori header nav ul {
 
 body.icinori header nav ul a {
   text-decoration: none;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-weight: regular;
   color: white;
 }
 
 body.icinori h1 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
   font-weight: bold;
 }
@@ -503,7 +503,7 @@ position: absolute;
 top: 25%;
 left: 0%;
 padding-left: 8%;
-font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
 font-size: 80px;
 font-weight: bold;
 background: rgba(255, 255, 255, 0.80);
@@ -518,7 +518,7 @@ body.icinori .about {
 }
 
 body.icinori .about p {
-  font-family: "PP Radio Grotesk";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 23px;
   font-style: normal;
   line-height: 110%;
@@ -526,7 +526,7 @@ body.icinori .about p {
 }
 
 body.icinori .p h1 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 60px;
   font-weight: bold;
   margin: 0px;
@@ -598,7 +598,7 @@ body.icinori .footer-heading a {
   color: #000;
   text-decoration: none;
   margin-bottom: 0.5rem;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
 
@@ -627,14 +627,14 @@ body.paulblow header nav ul {
 
 body.paulblow header nav ul a {
   text-decoration: none;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-weight: regular;
   color: white;
 }
 
 body.paulblow h1 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
   font-weight: bold;
 }
@@ -661,7 +661,7 @@ position: absolute;
 top: 25%;
 left: 0%;
 padding-left: 8%;
-font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
 font-size: 80px;
 font-weight: bold;
 background: rgba(255, 255, 255, 0.80);
@@ -676,7 +676,7 @@ body.paulblow .about {
 }
 
 body.paulblow .about p {
-  font-family: "PP Radio Grotesk";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 23px;
   font-style: normal;
   line-height: 110%;
@@ -684,7 +684,7 @@ body.paulblow .about p {
 }
 
 body.paulblow .p h1 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 60px;
   font-weight: bold;
   margin: 0px;
@@ -755,7 +755,7 @@ body.paulblow .footer-heading a {
   color: #000;
   text-decoration: none;
   margin-bottom: 0.5rem;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
 
@@ -784,14 +784,14 @@ body.thompson header nav ul {
 
 body.thompson header nav ul a {
   text-decoration: none;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-weight: regular;
   color: white;
 }
 
 body.thompson h1 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
   font-weight: bold;
 }
@@ -818,7 +818,7 @@ position: absolute;
 top: 25%;
 left: 0%;
 padding-left: 8%;
-font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
 font-size: 80px;
 font-weight: bold;
 background: rgba(255, 255, 255, 0.80);
@@ -833,7 +833,7 @@ body.thompson .about {
 }
 
 body.thompson .about p {
-  font-family: "PP Radio Grotesk";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 23px;
   font-style: normal;
   line-height: 110%;
@@ -841,7 +841,7 @@ body.thompson .about p {
 }
 
 body.thompson .p h1 {
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 60px;
   font-weight: bold;
   margin: 0px;
@@ -912,7 +912,7 @@ body.thompson .footer-heading a {
   color: #000;
   text-decoration: none;
   margin-bottom: 0.5rem;
-  font-family: "Neue Regrade";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
 
